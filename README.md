@@ -1,2 +1,0 @@
-# reacthookstest
-Created with CodeSandbox
